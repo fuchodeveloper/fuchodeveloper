@@ -4,4 +4,4 @@ Fredrick is a software engineer with over 6 years experience and demonstrated ab
 
 He has proven experience designing, building and implementing modern web front-end and back-end solutions with tests, databases, REST APIs, AWS and CI/CD. He cares about reliability, scalability, and performance end to end.
 
-Connect on: <a href="https://www.linkedin.com/in/fredrick-mgbeoma/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+Connect on: [LinkedIn](https://www.linkedin.com/in/fredrick-mgbeoma) | [Dev.to](https://dev.to/fuchodeveloper) | [Blog](https://www.codeisbae.com) | [YouTube](https://www.youtube.com/channel/UCS6IBh0slJvb2GqpanDUS7w)
